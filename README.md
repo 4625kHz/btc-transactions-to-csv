@@ -1,2 +1,3 @@
 # btc-transactions-to-csv
-Reads transaction history of a BTC address and outputs data to CSV file
+* This script reads the transaction history of a BTC address from the blockchain and outputs data to a CSV file.
+* The blockchain is queried via the blockchain.info public API.
